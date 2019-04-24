@@ -12,6 +12,7 @@ import {InMemoryDataService} from './core/in-memory-data.service';
 import { DashboardComponent } from './feature/dashboard/dashboard.component';
 import { HeroSearchComponent } from './feature/hero-search/hero-search.component';
 
+
 @NgModule({
   declarations: [
     AppComponent,
